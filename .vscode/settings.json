@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "aes_key.h": "c",
+        "stdbool.h": "c"
+    }
+}
